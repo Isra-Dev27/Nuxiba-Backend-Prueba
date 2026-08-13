@@ -1,8 +1,8 @@
-# Nuxiba-Backend
+# Nuxiba Backend Prueba
 
 **Autor:** Israel Velarde
 
-Repositorio con la solución a la prueba práctica para Desarrollador Junior en .NET 8 y SQL Server.
+Repositorio con la solución a la prueba práctica en .NET 8 y SQL Server.
 
 ## 🚀 Requisitos Previos
 
